@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+pydantic
+llama-cloud>=2.8
+docling
